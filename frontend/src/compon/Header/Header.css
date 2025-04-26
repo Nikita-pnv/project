@@ -1,0 +1,17 @@
+nav{
+color: white;
+display: flex;
+border-bottom: 2px solid;
+place-items: center;
+}
+
+h3{
+margin-right: 100px;
+
+}
+
+p{
+margin-left: 100px;
+
+}
+
